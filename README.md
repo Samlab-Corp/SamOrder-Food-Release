@@ -9,16 +9,16 @@
 <br/>
 ## 미리보기
 
-![수정됨_1 메인화면](https://user-images.githubusercontent.com/5858144/150273003-306017ce-37f0-414c-8dcd-465d7739898d.png)
-![수정됨_2 상품 선택](https://user-images.githubusercontent.com/5858144/150273005-71920890-aee4-4026-b2c0-1f233f664034.png)
-![수정됨_3 옵션 상품](https://user-images.githubusercontent.com/5858144/150273007-8095096a-36c2-4373-b351-acdb42aa6c84.png)
-![수정됨_4 결제 전 확인](https://user-images.githubusercontent.com/5858144/150273009-524a7764-d66a-43e1-9ca0-9a48a78080fa.png)
-![수정됨_4 장바구니](https://user-images.githubusercontent.com/5858144/150273010-f15a7022-4760-48b9-ac4c-6cf41346fd1b.png)
-![수정됨_5 결제 수단 선택](https://user-images.githubusercontent.com/5858144/150273013-56055007-865c-43a7-b343-f42d1abcda2d.png)
-![수정됨_6 마일리지 적립](https://user-images.githubusercontent.com/5858144/150273014-7fe43175-ce08-456b-9100-23d2869a01ed.png)
-![수정됨_7 신용카드 투입](https://user-images.githubusercontent.com/5858144/150273016-1e707a15-d4e0-4469-b7cc-69c98d522206.png)
-![수정됨_8 영수증 출력 확인](https://user-images.githubusercontent.com/5858144/150273019-cfc4b6fe-2ec2-4bf8-b9ca-cb5ee2195804.png)
-![수정됨_9 주문 완료](https://user-images.githubusercontent.com/5858144/150273021-1644c330-bbf9-40ea-9c04-805b811cb51c.png)
+![수정됨_1 메인화면](https://user-images.githubusercontent.com/5858144/150273101-0f2a3356-b5cb-408d-8fc9-b4ad8e51114c.png)
+![수정됨_2 상품 선택](https://user-images.githubusercontent.com/5858144/150273105-061023c2-7732-4111-b6cb-eb0f7ce5a05f.png)
+![수정됨_3 옵션 상품](https://user-images.githubusercontent.com/5858144/150273108-9631527b-4bf8-42e6-90fc-a6b3e1c10524.png)
+![수정됨_4 결제 전 확인](https://user-images.githubusercontent.com/5858144/150273110-ddf50194-6c19-4b85-b027-4fcdc0926548.png)
+![수정됨_4 장바구니](https://user-images.githubusercontent.com/5858144/150273111-38ed83b9-56bc-447b-918e-7d9d876001fa.png)
+![수정됨_5 결제 수단 선택](https://user-images.githubusercontent.com/5858144/150273113-888cb0b5-472f-44c9-a553-159efaeef4a8.png)
+![수정됨_6 마일리지 적립](https://user-images.githubusercontent.com/5858144/150273114-d39d74c7-6ea7-427c-83a4-9ef59ecdded8.png)
+![수정됨_7 신용카드 투입](https://user-images.githubusercontent.com/5858144/150273116-97597a1f-d7aa-4321-a6e7-16a433af6a23.png)
+![수정됨_8 영수증 출력 확인](https://user-images.githubusercontent.com/5858144/150273120-b235d3ed-ee1f-47bd-b77c-c5e420a9ba82.png)
+![수정됨_9 주문 완료](https://user-images.githubusercontent.com/5858144/150273122-03b9e9a3-96c3-4962-9f5e-94099606201d.png)
 
 ---
 © SAMLAB Corp. All rights reserved. 
