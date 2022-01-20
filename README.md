@@ -17,6 +17,7 @@
 ![수정됨_5 결제 수단 선택](https://user-images.githubusercontent.com/5858144/150278751-bcc0ef12-625d-47f9-ac8f-69aa0086bac3.png)
 ![수정됨_6 마일리지 적립](https://user-images.githubusercontent.com/5858144/150278752-f007350e-cc46-4e91-b582-b32f3a4e1a24.png)
 ![수정됨_7 신용카드 투입](https://user-images.githubusercontent.com/5858144/150278756-adb7a037-65f7-4a8a-86b0-66f8692d5070.png)
+![수정됨_2022-01-20 14 27 48](https://user-images.githubusercontent.com/5858144/150279244-8fc7228c-dfde-46f4-be62-153b0e1636bf.png)
 ![수정됨_8 영수증 출력 확인](https://user-images.githubusercontent.com/5858144/150278759-2b067099-7304-4cd2-8ccd-63c1eb44272b.png)
 ![수정됨_9 주문 완료](https://user-images.githubusercontent.com/5858144/150278760-1be02e0c-5cc1-471f-9a67-472a6af6f180.png)
 
